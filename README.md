@@ -12,9 +12,10 @@ This repository contains lab exercises for the ENSIA S2 Introduction to AI cours
 | Lab5____Search__Part_I.ipynb | Search Algorithms (Part I) |
 | Lab6__informed_Search_EMPTY.ipynb | Informed Search (A*, Greedy Best-First) |
 | Lab7_Local_Search.ipynb | Local Search (Hill Climbing) |
-| LAB8_V1_Empty.ipynb | Advanced Local Search (Stochastic, First Choice, Random Restart, Simulated Annealing) |
-| LAB9_V1_Empty.ipynb | Genetic Algorithms (Selection, Crossover, Mutation) |
-| Lab_10_V1_Empty.ipynb | Game Theory and Adversarial Search (MiniMax, Tic-Tac-Toe) |
+| LAB8_V1_Empty.ipynb | Advanced Local Search |
+| LAB9_V1_Empty.ipynb | Genetic Algorithms |
+| Lab10_V1_Empty.ipynb | Game Theory and Adversarial Search |
+| LAB11_CSP_Empty.ipynb | Constraint Satisfaction Problems (Sudoku) |
 
 ## Requirements
 
