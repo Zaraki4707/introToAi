@@ -17,6 +17,7 @@ This repository contains lab exercises for the ENSIA S2 Introduction to AI cours
 | Lab10_V1_Empty.ipynb | Game Theory and Adversarial Search |
 | LAB11_CSP_Empty.ipynb | Constraint Satisfaction Problems (Sudoku) |
 | LAB12_Empty_V1.ipynb | Logical Agents (Truth Table, Forward Chaining) |
+| LAB13_Resolution_empty.ipynb | Resolution in First-Order Logic |
 
 ## Requirements
 
